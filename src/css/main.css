@@ -273,13 +273,13 @@ Hero
 
 .hero-pattern {
   position: absolute;
-  bottom: 0;
+  bottom: 10%;
   right: 0;
   margin-left: 10vw;
   display: block;
 }
 .cls-1 {
-  fill: var(--dark-light);
+  fill: var(--bg);
 }
 .hero-center {
   height: 100%;

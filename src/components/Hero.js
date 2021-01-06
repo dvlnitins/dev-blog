@@ -11,13 +11,11 @@ const Hero = () => {
       <div className="section-center hero-center">
         <div className="hero-info">
           <div>
-            <h1>Front-End Web Development,<br/>
-                <span>Chewed Up </span>
+            <h1>That Blogger Dev<br/>
+                <span>Front-End Chewed Up </span>
             </h1>
             <p><i>React, Strapi, Gatsby,
                 JavaScript, CSS, Node.js...</i>
-              </p>
-              <p>Personal blog by Nitin Rai. 
               </p>
           </div>
         </div>
