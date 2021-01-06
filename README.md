@@ -7,6 +7,7 @@
 <p align="center">
    This project allows you to try Strapi with Gatsby with the example of a simple blog. It is fully customizable and due to the fact that it is open source, fully open to contributions. So do not hesitate to add new features and report bugs!
 </p>
+
 ![screenshot image](/ui.png)
 
 
