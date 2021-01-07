@@ -11,8 +11,8 @@ const Hero = () => {
       <div className="section-center hero-center">
         <div className="hero-info">
           <div>
-            <h1>That Blogger Dev<br/>
-                <span>Front-End Chewed Up </span>
+            <h1>Stay updated on the latest devs news<br/> 
+                <span>All in one place.</span>
             </h1>
             <p><i>React, Strapi, Gatsby,
                 JavaScript, CSS, Node.js...</i>
